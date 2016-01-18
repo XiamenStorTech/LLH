@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="G:\Workspace\LlH\app\libs\universal-image-loader-1.9.3-SNAPSHOT.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="29cf65d299e133ec68caba92b29f69289713975b">
+        <dex dex="G:\Workspace\LlH\app\build\intermediates\pre-dexed\debug\universal-image-loader-1.9.3-SNAPSHOT_0b2b6e241ae4d20d968726c09c577ac6834160c3.jar" />
+    </item>
+    <item
+        jar="G:\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="G:\Workspace\LlH\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_e8f40e45164be49f52c5a53519fa5aed6147513c.jar" />
+    </item>
+    <item
+        jar="C:\Users\xhj\.gradle\caches\modules-2\files-2.1\com.squareup.okio\okio\1.6.0\98476622f10715998eacf9240d6b479f12c66143\okio-1.6.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="98476622f10715998eacf9240d6b479f12c66143">
+        <dex dex="G:\Workspace\LlH\app\build\intermediates\pre-dexed\debug\okio-1.6.0_88f1aeab4b641f9451290e0e70d034394849d1eb.jar" />
+    </item>
+    <item
+        jar="G:\Workspace\LlH\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="G:\Workspace\LlH\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_e14adf7ea44190ce64af591f4a066f25ea12e8db.jar" />
+    </item>
+    <item
+        jar="C:\Users\xhj\.gradle\caches\modules-2\files-2.1\com.squareup.okhttp\okhttp\2.5.0\4de2b4ed3445c37ec1720a7d214712e845a24636\okhttp-2.5.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4de2b4ed3445c37ec1720a7d214712e845a24636">
+        <dex dex="G:\Workspace\LlH\app\build\intermediates\pre-dexed\debug\okhttp-2.5.0_e0e725f9e90cda8279f9bc351e8c1744b244872f.jar" />
+    </item>
+    <item
+        jar="C:\Users\xhj\.gradle\caches\modules-2\files-2.1\com.google.code.gson\gson\2.3.1\ecb6e1f8e4b0e84c4b886c2f14a1500caf309757\gson-2.3.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ecb6e1f8e4b0e84c4b886c2f14a1500caf309757">
+        <dex dex="G:\Workspace\LlH\app\build\intermediates\pre-dexed\debug\gson-2.3.1_a484c8976d3d1b2bfc45000c02fe08afa3acf3a7.jar" />
+    </item>
+    <item
+        jar="G:\Workspace\LlH\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="G:\Workspace\LlH\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_a758be635b00047ae6dab093a85b0950276cff43.jar" />
+    </item>
+    <item
+        jar="G:\Workspace\LlH\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="G:\Workspace\LlH\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_54aa729a2265850a5ebeacb184d6939b587a3a2f.jar" />
+    </item>
+
+</items>
