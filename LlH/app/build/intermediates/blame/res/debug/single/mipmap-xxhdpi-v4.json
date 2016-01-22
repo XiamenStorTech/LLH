@@ -2,5 +2,9 @@
     {
         "merged": "G:\\Workspace\\LlH\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
         "source": "G:\\Workspace\\LlH\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\LLH\\LLH\\LlH\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi-v4\\ic_launcher.png",
+        "source": "G:\\LLH\\LLH\\LlH\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher.png"
     }
 ]

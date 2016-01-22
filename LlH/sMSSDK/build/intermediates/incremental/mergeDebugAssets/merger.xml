@@ -1,2 +1,2 @@
 <?xml version="1.0" encoding="utf-8"?>
-<merger version="3"><dataSet config="main"><source path="G:\Workspace\LlH\sMSSDK\src\main\assets"/></dataSet><dataSet config="debug"><source path="G:\Workspace\LlH\sMSSDK\src\debug\assets"/></dataSet></merger>
+<merger version="3"><dataSet config="main"><source path="G:\LLH\LLH\LlH\sMSSDK\src\main\assets"/></dataSet><dataSet config="debug"><source path="G:\LLH\LLH\LlH\sMSSDK\src\debug\assets"/></dataSet></merger>

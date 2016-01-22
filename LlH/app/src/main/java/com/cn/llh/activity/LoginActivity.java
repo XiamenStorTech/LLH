@@ -21,6 +21,7 @@ public class LoginActivity extends Activity implements View.OnClickListener {
         init();//初始化
         initlistener();//初始化点击
     }
+    
 
 
     private void init() {

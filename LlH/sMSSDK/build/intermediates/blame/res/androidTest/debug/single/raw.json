@@ -2,5 +2,9 @@
     {
         "merged": "G:\\Workspace\\LlH\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\libs",
         "source": "G:\\Workspace\\LlH\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\raw\\libs"
+    },
+    {
+        "merged": "G:\\LLH\\LLH\\LlH\\sMSSDK\\build\\intermediates\\res\\merged\\androidTest\\debug\\raw\\libs",
+        "source": "G:\\LLH\\LLH\\LlH\\sMSSDK\\build\\intermediates\\bundles\\debug\\res\\raw\\libs"
     }
 ]
