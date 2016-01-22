@@ -152,6 +152,10 @@
         "source": "G:\\Workspace\\LlH\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
     },
     {
+        "merged": "G:\\Workspace\\LlH\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "G:\\Workspace\\LlH\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
         "merged": "G:\\Workspace\\LlH\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
         "source": "G:\\Workspace\\LlH\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
     }

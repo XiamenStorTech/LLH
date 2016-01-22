@@ -2,6 +2,7 @@ package com.cn.llh.activity;
 
 import android.app.Application;
 import android.content.Context;
+import android.widget.Toast;
 
 import com.nostra13.universalimageloader.cache.disc.naming.Md5FileNameGenerator;
 import com.nostra13.universalimageloader.core.ImageLoader;
@@ -27,5 +28,13 @@ public class Myapp extends Application {
                 .tasksProcessingOrder(QueueProcessingType.LIFO)
                 .build();
         ImageLoader.getInstance().init(config);
+    }
+
+    public static void showToast(Context context, String Msg) {
+        Toast.makeText(context.getApplicationContext(), Msg, Toast.LENGTH_SHORT).show();
+    }
+
+    public static void showToastlong(Context context, String Msg) {
+        Toast.makeText(context.getApplicationContext(), Msg, Toast.LENGTH_LONG).show();
     }
 }

@@ -143,14 +143,16 @@ public final class UILUtils {
         }
 
         if(view == null){
-            return URL_HEAD + "/img/getimg?url=" + url + "&width=96&height=96&type=2";
+            //return URL_HEAD + "/img/getimg?url=" + url + "&width=96&height=96&type=2";
+            return url;
         }
 
         int height = view.getHeight();
         height = height <= 96 ? 96 : height;
         int width = view.getWidth();
         width = width <= 96 ? 96 : width;
-        return URL_HEAD + "/img/getimg?url=" + url + "&width=" + width + "&height=" + height + "&type=2";
+        //return URL_HEAD + "/img/getimg?url=" + url + "&width=" + width + "&height=" + height + "&type=2";
+        return url;
     }
 
     /**

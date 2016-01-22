@@ -24,6 +24,10 @@
         "source": "G:\\Workspace\\LlH\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_spinner_textfield_background_material.xml"
     },
     {
+        "merged": "G:\\Workspace\\LlH\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_corner_login.xml",
+        "source": "G:\\Workspace\\LlH\\app\\src\\main\\res\\drawable\\border_corner_login.xml"
+    },
+    {
         "merged": "G:\\Workspace\\LlH\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_btn_default_mtrl_shape.xml",
         "source": "G:\\Workspace\\LlH\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_btn_default_mtrl_shape.xml"
     },
@@ -94,5 +98,9 @@
     {
         "merged": "G:\\Workspace\\LlH\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\abc_text_cursor_material.xml",
         "source": "G:\\Workspace\\LlH\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable\\abc_text_cursor_material.xml"
+    },
+    {
+        "merged": "G:\\Workspace\\LlH\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\border_corner_login_enable.xml",
+        "source": "G:\\Workspace\\LlH\\app\\src\\main\\res\\drawable\\border_corner_login_enable.xml"
     }
 ]
