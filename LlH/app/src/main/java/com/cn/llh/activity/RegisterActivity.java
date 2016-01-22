@@ -37,6 +37,7 @@ public class RegisterActivity extends Activity implements View.OnClickListener {
     private VerificationCodeProgressAsyncTask asyncTask; //异步消息对象
 
 
+
     private static final int VERIFICATION_AUTHENTICATE_SUCCESS = 0x20; //验证码认证成功
     private final static int INVALID_MOBILE_PHONE = 467; //请求校验验证码频繁（5分钟内同一个appkey的同一个号码最多只能校验三次）
     private final static int INVALID_VERIFICATION_CODE = 468; //无效验证码
